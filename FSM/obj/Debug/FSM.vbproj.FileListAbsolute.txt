@@ -1,0 +1,138 @@
+C:\Users\muhsin\Documents\Visual Studio 2008\Projects\FSM\FSM\bin\Debug\FSM.exe
+C:\Users\muhsin\Documents\Visual Studio 2008\Projects\FSM\FSM\bin\Debug\FSM.pdb
+C:\Users\muhsin\Documents\Visual Studio 2008\Projects\FSM\FSM\bin\Debug\FSM.xml
+C:\Users\muhsin\Documents\Visual Studio 2008\Projects\FSM\FSM\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\muhsin\Documents\Visual Studio 2008\Projects\FSM\FSM\obj\Debug\FSM.AboutUs.resources
+C:\Users\muhsin\Documents\Visual Studio 2008\Projects\FSM\FSM\obj\Debug\FSM.AttendenceLeave.resources
+C:\Users\muhsin\Documents\Visual Studio 2008\Projects\FSM\FSM\obj\Debug\FSM.BankMaster.resources
+C:\Users\muhsin\Documents\Visual Studio 2008\Projects\FSM\FSM\obj\Debug\FSM.Damage.resources
+C:\Users\muhsin\Documents\Visual Studio 2008\Projects\FSM\FSM\obj\Debug\FSM.EmployeeMaster.resources
+C:\Users\muhsin\Documents\Visual Studio 2008\Projects\FSM\FSM\obj\Debug\FSM.EmployeeSalary.resources
+C:\Users\muhsin\Documents\Visual Studio 2008\Projects\FSM\FSM\obj\Debug\FSM.Form1.resources
+C:\Users\muhsin\Documents\Visual Studio 2008\Projects\FSM\FSM\obj\Debug\FSM.Invoice.resources
+C:\Users\muhsin\Documents\Visual Studio 2008\Projects\FSM\FSM\obj\Debug\FSM.ItemDetails.resources
+C:\Users\muhsin\Documents\Visual Studio 2008\Projects\FSM\FSM\obj\Debug\FSM.ItemReturn.resources
+C:\Users\muhsin\Documents\Visual Studio 2008\Projects\FSM\FSM\obj\Debug\FSM.MainMenu.resources
+C:\Users\muhsin\Documents\Visual Studio 2008\Projects\FSM\FSM\obj\Debug\FSM.Resources.resources
+C:\Users\muhsin\Documents\Visual Studio 2008\Projects\FSM\FSM\obj\Debug\FSM.Purchase.resources
+C:\Users\muhsin\Documents\Visual Studio 2008\Projects\FSM\FSM\obj\Debug\FSM.Recieving.resources
+C:\Users\muhsin\Documents\Visual Studio 2008\Projects\FSM\FSM\obj\Debug\FSM.Sending.resources
+C:\Users\muhsin\Documents\Visual Studio 2008\Projects\FSM\FSM\obj\Debug\FSM.Sheo.resources
+C:\Users\muhsin\Documents\Visual Studio 2008\Projects\FSM\FSM\obj\Debug\FSM.Slipper.resources
+C:\Users\muhsin\Documents\Visual Studio 2008\Projects\FSM\FSM\obj\Debug\FSM.Socks.resources
+C:\Users\muhsin\Documents\Visual Studio 2008\Projects\FSM\FSM\obj\Debug\FSM.Stock.resources
+C:\Users\muhsin\Documents\Visual Studio 2008\Projects\FSM\FSM\obj\Debug\FSM.VendorMaster.resources
+C:\Users\muhsin\Documents\Visual Studio 2008\Projects\FSM\FSM\obj\Debug\FSM.vbproj.GenerateResource.Cache
+C:\Users\muhsin\Documents\Visual Studio 2008\Projects\FSM\FSM\obj\Debug\FSM.exe
+C:\Users\muhsin\Documents\Visual Studio 2008\Projects\FSM\FSM\obj\Debug\FSM.xml
+C:\Users\muhsin\Documents\Visual Studio 2008\Projects\FSM\FSM\obj\Debug\FSM.pdb
+C:\Users\muhsin\Documents\Visual Studio 2008\Projects\FSM\FSM\obj\Debug\FSM.UserDetails.resources
+C:\Users\muhsin\Documents\Visual Studio 2008\Projects\FSM\FSM\obj\Debug\FSM.ReportAttendenceLeave.resources
+C:\Users\muhsin\Documents\Visual Studio 2008\Projects\FSM\FSM\obj\Debug\FSM.ReportBankMaster.resources
+C:\Users\muhsin\Documents\Visual Studio 2008\Projects\FSM\FSM\obj\Debug\FSM.ReportDamage.resources
+C:\Users\muhsin\Documents\Visual Studio 2008\Projects\FSM\FSM\obj\Debug\FSM.ReportEmployeeMaster.resources
+C:\Users\muhsin\Documents\Visual Studio 2008\Projects\FSM\FSM\obj\Debug\FSM.ReportEmployeeSalary.resources
+C:\Users\muhsin\Documents\Visual Studio 2008\Projects\FSM\FSM\obj\Debug\FSM.ReportInvoice.resources
+C:\Users\muhsin\Documents\Visual Studio 2008\Projects\FSM\FSM\obj\Debug\FSM.ReportItemDetails.resources
+C:\Users\muhsin\Documents\Visual Studio 2008\Projects\FSM\FSM\obj\Debug\FSM.ReportItemReturn.resources
+C:\Users\muhsin\Documents\Visual Studio 2008\Projects\FSM\FSM\obj\Debug\FSM.ReportPurchase.resources
+C:\Users\muhsin\Documents\Visual Studio 2008\Projects\FSM\FSM\obj\Debug\FSM.ReportRecieving.resources
+C:\Users\muhsin\Documents\Visual Studio 2008\Projects\FSM\FSM\obj\Debug\FSM.ReportSending.resources
+C:\Users\muhsin\Documents\Visual Studio 2008\Projects\FSM\FSM\obj\Debug\FSM.ReportShoe.resources
+C:\Users\muhsin\Documents\Visual Studio 2008\Projects\FSM\FSM\obj\Debug\FSM.ReportSlipper.resources
+C:\Users\muhsin\Documents\Visual Studio 2008\Projects\FSM\FSM\obj\Debug\FSM.ReportSocks.resources
+C:\Users\muhsin\Documents\Visual Studio 2008\Projects\FSM\FSM\obj\Debug\FSM.ReportStock.resources
+C:\Users\muhsin\Documents\Visual Studio 2008\Projects\FSM\FSM\obj\Debug\FSM.ReportUserDetails.resources
+C:\Users\muhsin\Documents\Visual Studio 2008\Projects\FSM\FSM\obj\Debug\FSM.ReportVendorMaster.resources
+C:\Users\soura\Desktop\Projects\FSM\FSM\obj\Debug\FSM.exe
+C:\Users\soura\Desktop\Projects\FSM\FSM\obj\Debug\FSM.xml
+C:\Users\soura\Desktop\Projects\FSM\FSM\obj\Debug\FSM.pdb
+C:\Users\soura\Desktop\Projects\FSM\FSM\bin\Debug\FSM.exe
+C:\Users\soura\Desktop\Projects\FSM\FSM\bin\Debug\FSM.pdb
+C:\Users\soura\Desktop\Projects\FSM\FSM\bin\Debug\FSM.xml
+C:\Users\soura\Desktop\Projects\FSM\FSM\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\soura\Desktop\Projects\FSM\FSM\obj\Debug\FSM.AboutUs.resources
+C:\Users\soura\Desktop\Projects\FSM\FSM\obj\Debug\FSM.AttendenceLeave.resources
+C:\Users\soura\Desktop\Projects\FSM\FSM\obj\Debug\FSM.BankMaster.resources
+C:\Users\soura\Desktop\Projects\FSM\FSM\obj\Debug\FSM.Damage.resources
+C:\Users\soura\Desktop\Projects\FSM\FSM\obj\Debug\FSM.EmployeeMaster.resources
+C:\Users\soura\Desktop\Projects\FSM\FSM\obj\Debug\FSM.EmployeeSalary.resources
+C:\Users\soura\Desktop\Projects\FSM\FSM\obj\Debug\FSM.Form1.resources
+C:\Users\soura\Desktop\Projects\FSM\FSM\obj\Debug\FSM.Invoice.resources
+C:\Users\soura\Desktop\Projects\FSM\FSM\obj\Debug\FSM.ItemDetails.resources
+C:\Users\soura\Desktop\Projects\FSM\FSM\obj\Debug\FSM.ItemReturn.resources
+C:\Users\soura\Desktop\Projects\FSM\FSM\obj\Debug\FSM.MainMenu.resources
+C:\Users\soura\Desktop\Projects\FSM\FSM\obj\Debug\FSM.Resources.resources
+C:\Users\soura\Desktop\Projects\FSM\FSM\obj\Debug\FSM.Purchase.resources
+C:\Users\soura\Desktop\Projects\FSM\FSM\obj\Debug\FSM.Recieving.resources
+C:\Users\soura\Desktop\Projects\FSM\FSM\obj\Debug\FSM.ReportAttendenceLeave.resources
+C:\Users\soura\Desktop\Projects\FSM\FSM\obj\Debug\FSM.ReportBankMaster.resources
+C:\Users\soura\Desktop\Projects\FSM\FSM\obj\Debug\FSM.ReportDamage.resources
+C:\Users\soura\Desktop\Projects\FSM\FSM\obj\Debug\FSM.ReportEmployeeMaster.resources
+C:\Users\soura\Desktop\Projects\FSM\FSM\obj\Debug\FSM.ReportEmployeeSalary.resources
+C:\Users\soura\Desktop\Projects\FSM\FSM\obj\Debug\FSM.ReportInvoice.resources
+C:\Users\soura\Desktop\Projects\FSM\FSM\obj\Debug\FSM.ReportItemDetails.resources
+C:\Users\soura\Desktop\Projects\FSM\FSM\obj\Debug\FSM.ReportItemReturn.resources
+C:\Users\soura\Desktop\Projects\FSM\FSM\obj\Debug\FSM.ReportPurchase.resources
+C:\Users\soura\Desktop\Projects\FSM\FSM\obj\Debug\FSM.ReportRecieving.resources
+C:\Users\soura\Desktop\Projects\FSM\FSM\obj\Debug\FSM.ReportSending.resources
+C:\Users\soura\Desktop\Projects\FSM\FSM\obj\Debug\FSM.ReportShoe.resources
+C:\Users\soura\Desktop\Projects\FSM\FSM\obj\Debug\FSM.ReportSlipper.resources
+C:\Users\soura\Desktop\Projects\FSM\FSM\obj\Debug\FSM.ReportSocks.resources
+C:\Users\soura\Desktop\Projects\FSM\FSM\obj\Debug\FSM.ReportStock.resources
+C:\Users\soura\Desktop\Projects\FSM\FSM\obj\Debug\FSM.ReportUserDetails.resources
+C:\Users\soura\Desktop\Projects\FSM\FSM\obj\Debug\FSM.ReportVendorMaster.resources
+C:\Users\soura\Desktop\Projects\FSM\FSM\obj\Debug\FSM.Sending.resources
+C:\Users\soura\Desktop\Projects\FSM\FSM\obj\Debug\FSM.Sheo.resources
+C:\Users\soura\Desktop\Projects\FSM\FSM\obj\Debug\FSM.Slipper.resources
+C:\Users\soura\Desktop\Projects\FSM\FSM\obj\Debug\FSM.Socks.resources
+C:\Users\soura\Desktop\Projects\FSM\FSM\obj\Debug\FSM.Stock.resources
+C:\Users\soura\Desktop\Projects\FSM\FSM\obj\Debug\FSM.UserDetails.resources
+C:\Users\soura\Desktop\Projects\FSM\FSM\obj\Debug\FSM.VendorMaster.resources
+C:\Users\soura\Desktop\Projects\FSM\FSM\obj\Debug\FSM.vbproj.GenerateResource.Cache
+D:\Projects\FSM\FSM\obj\Debug\FSM.exe
+D:\Projects\FSM\FSM\obj\Debug\FSM.xml
+D:\Projects\FSM\FSM\obj\Debug\FSM.pdb
+D:\Projects\FSM\FSM\bin\Debug\FSM.exe
+D:\Projects\FSM\FSM\bin\Debug\FSM.pdb
+D:\Projects\FSM\FSM\bin\Debug\FSM.xml
+D:\Projects\FSM\FSM\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\FSM\FSM\obj\Debug\FSM.AboutUs.resources
+D:\Projects\FSM\FSM\obj\Debug\FSM.AttendenceLeave.resources
+D:\Projects\FSM\FSM\obj\Debug\FSM.BankMaster.resources
+D:\Projects\FSM\FSM\obj\Debug\FSM.Damage.resources
+D:\Projects\FSM\FSM\obj\Debug\FSM.EmployeeMaster.resources
+D:\Projects\FSM\FSM\obj\Debug\FSM.EmployeeSalary.resources
+D:\Projects\FSM\FSM\obj\Debug\FSM.Form1.resources
+D:\Projects\FSM\FSM\obj\Debug\FSM.Invoice.resources
+D:\Projects\FSM\FSM\obj\Debug\FSM.ItemDetails.resources
+D:\Projects\FSM\FSM\obj\Debug\FSM.ItemReturn.resources
+D:\Projects\FSM\FSM\obj\Debug\FSM.MainMenu.resources
+D:\Projects\FSM\FSM\obj\Debug\FSM.Resources.resources
+D:\Projects\FSM\FSM\obj\Debug\FSM.Purchase.resources
+D:\Projects\FSM\FSM\obj\Debug\FSM.Recieving.resources
+D:\Projects\FSM\FSM\obj\Debug\FSM.ReportAttendenceLeave.resources
+D:\Projects\FSM\FSM\obj\Debug\FSM.ReportBankMaster.resources
+D:\Projects\FSM\FSM\obj\Debug\FSM.ReportDamage.resources
+D:\Projects\FSM\FSM\obj\Debug\FSM.ReportEmployeeMaster.resources
+D:\Projects\FSM\FSM\obj\Debug\FSM.ReportEmployeeSalary.resources
+D:\Projects\FSM\FSM\obj\Debug\FSM.ReportInvoice.resources
+D:\Projects\FSM\FSM\obj\Debug\FSM.ReportItemDetails.resources
+D:\Projects\FSM\FSM\obj\Debug\FSM.ReportItemReturn.resources
+D:\Projects\FSM\FSM\obj\Debug\FSM.ReportPurchase.resources
+D:\Projects\FSM\FSM\obj\Debug\FSM.ReportRecieving.resources
+D:\Projects\FSM\FSM\obj\Debug\FSM.ReportSending.resources
+D:\Projects\FSM\FSM\obj\Debug\FSM.ReportShoe.resources
+D:\Projects\FSM\FSM\obj\Debug\FSM.ReportSlipper.resources
+D:\Projects\FSM\FSM\obj\Debug\FSM.ReportSocks.resources
+D:\Projects\FSM\FSM\obj\Debug\FSM.ReportStock.resources
+D:\Projects\FSM\FSM\obj\Debug\FSM.ReportUserDetails.resources
+D:\Projects\FSM\FSM\obj\Debug\FSM.ReportVendorMaster.resources
+D:\Projects\FSM\FSM\obj\Debug\FSM.Sending.resources
+D:\Projects\FSM\FSM\obj\Debug\FSM.Sheo.resources
+D:\Projects\FSM\FSM\obj\Debug\FSM.Slipper.resources
+D:\Projects\FSM\FSM\obj\Debug\FSM.Socks.resources
+D:\Projects\FSM\FSM\obj\Debug\FSM.Stock.resources
+D:\Projects\FSM\FSM\obj\Debug\FSM.UserDetails.resources
+D:\Projects\FSM\FSM\obj\Debug\FSM.VendorMaster.resources
+D:\Projects\FSM\FSM\obj\Debug\FSM.vbproj.GenerateResource.Cache
